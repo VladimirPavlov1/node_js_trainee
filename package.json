@@ -1,0 +1,27 @@
+{
+  "name": "node_js_trainee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladimirPavlov1/node_js_trainee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladimirPavlov1/node_js_trainee/issues"
+  },
+  "homepage": "https://github.com/VladimirPavlov1/node_js_trainee#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^10.0.0",
+    "nodemon": "^2.0.22",
+    "yargs": "^17.7.1"
+  }
+}
